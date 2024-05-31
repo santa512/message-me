@@ -47,10 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Azeem Ahmed**
-
-- Github: [@Azeem838](https://github.com/Azeem838)
-- LinkedIn: [Azeem Ahmed](www.linkedin.com/in/azeemmahmed)
+- Github: [@santa512](https://github.com/santa512)
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
